@@ -41,7 +41,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 
 ## 📸 Visualisasi Dashboard
 
-![Revenue by Category](./category_revenue_chart.png)
+![Revenue by Category](Count of Revenue by Product Category.png)
 *Gambar 1: Perbandingan Total Revenue & Volume Order per Kategori Produk*
 
 ![Discount Sweet Spot](./discount_quantity_chart.png)
