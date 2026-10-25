@@ -1,4 +1,4 @@
-# EXCEL-POWER-BI-ecommerce-sales-analysis
+# EXCEL- ecommerce-sales-analysis
 -Commerce Sales Performance &amp; Customer Behavior Analysis using Excel and Power BI)
 
 # 📊 E-Commerce Sales Performance & Customer Behavior Analysis
@@ -39,7 +39,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 
 ---
 
-## 📸 Visualisasi Dashboard (Power BI)
+## 📸 Visualisasi Dashboard
 
 ![Revenue by Category](./category_revenue_chart.png)
 *Gambar 1: Perbandingan Total Revenue & Volume Order per Kategori Produk*
