@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 * **Top Revenue Category:** Electronics ($1.83M Revenue | 1,777 Orders)
 * **Highest AOV Category:** Beauty (~$1,059 per order)
 * **Optimal Discount Range:** 20% - 30% (Sweet Spot)
-* **Total Unique Customers:** 5000 Pelanggan
+* **Total Unique Customers:** 989 Pelanggan
 
 ---
 
@@ -26,12 +26,12 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
   * Terapkan strategi *product bundling* pada kategori *Beuaty* untuk memaksimalkan nilai keranjang belanja pelanggan.
 
 ### 2. Efektivitas Diskon (*Discount Impact Analysis*)
-* **Insight:** Besaran diskon **20% - 30%** merupakan *sweet spot* psikologis pembeli dengan total kuantiti barang terjual tertinggi (6.059 item). Diskon di bawah 10% atau di atas 30% terbukti kurang efektif mendongkrak kuantiti penjualan.
-* **Rekomendasi Bisnis:** Batasi alokasi promo diskon di kisaran 20%–30% untuk menjaga tingkat profitabilitas tanpa mengorbankan volume penjualan.
+* **Insight:** Besaran diskon **20% - 30%** merupakan *sweet spot* psikologis pembeli dengan total kuantiti barang terjual tertinggi (6.059 item). Diskon di bawah 10% atau di atas 30% terbukti kurang efektif mendongkrak kuantiti penjualan. Namun, tingginya kuantitas penjualan belum tentu mencerminkan pendapatan atau profitabilitas yang lebih tinggi.
+* **Rekomendasi Bisnis:** Evaluasi efektivitas promosi diskon 20%–30% dengan membandingkan total revenue, jumlah transaksi, dan Average Order Value (AOV) pada setiap kelompok diskon. Untuk menentukan strategi diskon yang paling menguntungkan, diperlukan data tambahan mengenai biaya produk dan margin keuntungan..
 
 ### 3. Logistik Pengiriman vs. Kepuasan Pelanggan
-* **Insight:** Durasi pengiriman **1–3 hari** menghasilkan rata-rata rating kepuasan pelanggan tertinggi (**3.08**). Kepuasan pelanggan cenderung menurun secara konsisten pada estimasi pengiriman di atas 4 hari.
-* **Rekomendasi Bisnis:** Tingkatkan kerja sama dengan mitra ekspedisi/kurir lokal guna memastikan mayoritas pengiriman sampai dalam waktu maksimal 3 hari.
+* **Insight:** Durasi pengiriman **1–3 hari** menghasilkan rata-rata rating kepuasan pelanggan tertinggi (**3.08**). Namun, pola rating tidak sepenuhnya konsisten pada setiap kelompok durasi pengiriman.
+* **Rekomendasi Bisnis:** Evaluasi proses pengiriman, terutama pada pesanan dengan durasi pengiriman lebih lama. Analisis lanjutan diperlukan untuk mengetahui apakah rating yang lebih rendah berkaitan dengan durasi pengiriman atau faktor lain, seperti kategori produk, kondisi barang, dan pengalaman pelanggan.
 
 ### 4. Distribusi Frekuensi Belanja Pelanggan
 * **Insight:** Dari total 5000 pelanggan unik, mayoritas pelanggan bertransaksi sebanyak 3–6 kali. Terdapat 39 pelanggan baru yang baru melakukan 1 kali transaksi (*one-time buyers*).
