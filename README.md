@@ -30,7 +30,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 * **Rekomendasi Bisnis:** Evaluasi efektivitas promosi diskon 20%–30% dengan membandingkan total revenue, jumlah transaksi, dan Average Order Value (AOV) pada setiap kelompok diskon. Untuk menentukan strategi diskon yang paling menguntungkan, diperlukan data tambahan mengenai biaya produk dan margin keuntungan..
 
 ### 3. Logistik Pengiriman vs. Kepuasan Pelanggan
-* **Insight:** Durasi pengiriman **1–3 hari** menghasilkan rata-rata rating kepuasan pelanggan tertinggi (**3.08**). Namun, pola rating tidak sepenuhnya konsisten pada setiap kelompok durasi pengiriman.
+* **Insight:** Durasi pengiriman **1–3 hari** menghasilkan rata-rata rating kepuasan pelanggan tertinggi (**3.08**). Sedangkan, pada rentang waktu pengiriman 4-9 hari rating mengalami penurunan, ini mengindikasikan bahwa kecepatan logistik berdampak langsung terhadap kepuasan pelanggan.
 * **Rekomendasi Bisnis:** Evaluasi proses pengiriman, terutama pada pesanan dengan durasi pengiriman lebih lama. Analisis lanjutan diperlukan untuk mengetahui apakah rating yang lebih rendah berkaitan dengan durasi pengiriman atau faktor lain, seperti kategori produk, kondisi barang, dan pengalaman pelanggan.
 
 ### 4. Distribusi Frekuensi Belanja Pelanggan
