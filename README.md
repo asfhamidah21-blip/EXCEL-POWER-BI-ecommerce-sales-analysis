@@ -42,10 +42,19 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 ## 📸 Visualisasi Dashboard
 
 ![Cust Rating by Delivery Days] ([Analisis Kepuasan Pelanggan vs Waktu Pengiriman (Hari).png](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/aac46e9a995a83c679b1b3539bdf9bf2f51d3cfe/Analisis%20Kepuasan%20Pelanggan%20vs%20Waktu%20Pengiriman%20(Hari).png))
-*Gambar 1: Perbandingan Total Revenue & Volume Order per Kategori Produk*
+*Gambar 1: Analisis Kepuasan Pelanggan vs Waktu Pengiriman (Hari)*
 
-![Discount Sweet Spot](./discount_quantity_chart.png)
-*Gambar 2: Distribusi Kuantitas Penjualan berdasarkan Tingkat Diskon*
+![SUM & AOV by product category]([Analisis Pendapatan Penjualan Berdasarkan Kategori Produk.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Analisis%20Pendapatan%20Penjualan%20Berdasarkan%20Kategori%20Produk.png)
+*Gambar 2: Analisis Pendapatan Penjualan Berdasarkan Kategori Produk*
+
+![Revenue by payment method][(Analisis Preferensi Metode Pembayaran Pelanggan.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Analisis%20Preferensi%20Metode%20Pembayaran%20Pelanggan.png)
+*Gambar 3: Analisis Preferensi Metode Pembayaran Pelanggan*
+
+![Quantity by discount] [[(Analisis Volume Penjualan per Tier Diskon.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Analisis%20Volume%20Penjualan%20per%20Tier%20Diskon.png)
+*Gambar 4: Analisis Volume Penjualan per Tier Diskon*
+
+![Revenue by payment method][[(Total Jumlah Transaksi per Kategori Produk.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Total%20Jumlah%20Transaksi%20per%20Kategori%20Produk.png)
+*Gambar 5: Total Jumlah Transaksi per Kategori Produk*
 
 ---
 
