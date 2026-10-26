@@ -41,7 +41,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 
 ## 📸 Visualisasi Dashboard
 
-![Revenue by Category](Analisis-Preferensi-Metode-Pembayaran-Pelanggan.png)
+![Cust Rating by Delivery Days] ([Analisis Kepuasan Pelanggan vs Waktu Pengiriman (Hari).png](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/aac46e9a995a83c679b1b3539bdf9bf2f51d3cfe/Analisis%20Kepuasan%20Pelanggan%20vs%20Waktu%20Pengiriman%20(Hari).png))
 *Gambar 1: Perbandingan Total Revenue & Volume Order per Kategori Produk*
 
 ![Discount Sweet Spot](./discount_quantity_chart.png)
