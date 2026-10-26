@@ -53,7 +53,7 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, efektivitas strategi
 ![Quantity by discount] [[(Analisis Volume Penjualan per Tier Diskon.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Analisis%20Volume%20Penjualan%20per%20Tier%20Diskon.png)
 *Gambar 4: Analisis Volume Penjualan per Tier Diskon*
 
-![Revenue by payment method][[(Total Jumlah Transaksi per Kategori Produk.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Total%20Jumlah%20Transaksi%20per%20Kategori%20Produk.png)
+ ![Revenue by product category][[(Total Jumlah Transaksi per Kategori Produk.png)](https://github.com/asfhamidah21-blip/Ms-EXCEL-ecommerce-sales-analysis-/blob/219484a01fa39a8014b5bca6b712c9a1ad3ec3e7/Total%20Jumlah%20Transaksi%20per%20Kategori%20Produk.png)
 *Gambar 5: Total Jumlah Transaksi per Kategori Produk*
 
 ---
